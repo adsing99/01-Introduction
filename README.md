@@ -1,5 +1,8 @@
 # 01-Introduction
 
+Adhiraj Singh
+August 28, 2019
+
 I have finished this assignment by answering the questions underneath in main.py. Additionally I made a mini game using some basic loops and if-elses learnt in the first example assignment to guess my favorite video game.
 
 * What is your name?
